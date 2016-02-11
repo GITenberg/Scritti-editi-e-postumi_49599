@@ -1,0 +1,27 @@
+_repo: Scritti-editi-e-postumi_49599
+contributor:
+  commentator:
+    agent_name: Mazzini, Giuseppe
+    alias: Brown, Giorgio Rossi
+    birthdate: 1805
+    deathdate: 1872
+    gutenberg_agent_id: '33687'
+    url: http://www.gutenberg.org/2009/agents/33687
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Mazzini
+creator:
+  author:
+    agent_name: Bini, Carlo
+    gutenberg_agent_id: '45437'
+    url: http://www.gutenberg.org/2009/agents/45437
+description: ''
+gutenberg_bookshelf: IT Narrativa varia
+gutenberg_issued: '2015-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49599'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Scritti editi e postumi
+url: http://www.gutenberg.org/ebooks/49599
