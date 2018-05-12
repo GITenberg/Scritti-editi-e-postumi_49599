@@ -1,4 +1,5 @@
 _repo: Scritti-editi-e-postumi_49599
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Mazzini, Giuseppe
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '33687'
     url: http://www.gutenberg.org/2009/agents/33687
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Mazzini
+covers:
+- cover_type: archival
+  image_path: 49599-h/images/cover.jpg
 creator:
   author:
     agent_name: Bini, Carlo
     gutenberg_agent_id: '45437'
     url: http://www.gutenberg.org/2009/agents/45437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49599#Scritti-editi-e-postumi
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2015-08-04'
 gutenberg_type: Text
